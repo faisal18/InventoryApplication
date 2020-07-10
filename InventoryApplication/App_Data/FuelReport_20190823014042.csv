@@ -1,0 +1,2 @@
+Id,Description,FromDestination,ToDestination,TotalDistance,TripRate,TollCharges,WaitingCharges,TotalCharges,DriverCommission,DateofEntry,DriverId,DriverName,ClientId,ClientName,CarId,CarPlateNumber
+1,Test,JLT,Deira,19,40,20,10,130,20,07/31/2019 12:00:00 AM,2,Driver 1,1,Company ABC,1,111111

@@ -1,0 +1,5 @@
+Id,Description,FromDestination,ToDestination,TotalDistance,TripRate,TollCharges,WaitingCharges,TotalCharges,DriverCommission,DateofEntry,DriverId,DriverName,ClientId,ClientName,CarId,CarPlateNumber,CreationDate,CreditStatus,InvoiceNumber
+1,Test,JLT,Deira,19,40,20,10,130,20,07/31/2019 12:00:00 AM,2,Driver 1,1,Company ABC,1,111111,08/01/2019 5:32:47 PM,Paid,INV001
+2,This is a test,JLT,Deira,19,2231,20,10,130,20,07/25/2019 12:00:00 AM,3,Driver 2,2,Company DEF,2,111112,08/23/2019 2:01:42 AM,Paid,INV002
+3,test,test,test,100,2231,100,100,10,410,10/14/2019 12:00:00 AM,3,Driver 2,2,Company DEF,2,111112,10/14/2019 4:58:20 PM,Unpaid,INV003
+4,Test,Test,Test,100,40,100,100,100,100,10/15/2019 12:00:00 AM,2,Driver 1,1,Company ABC,1,111111,10/15/2019 2:02:40 PM,Paid,INV004

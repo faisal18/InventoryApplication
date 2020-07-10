@@ -1,0 +1,42 @@
+Add register user (new register link only appears if signed as admin, appears underneath Reports on the left bar) - DONE
+User Type -> Admin, Finance, Maintainence - DONE
+
+Maintenance can only access inventory - DONE
+Finance can Access Reports - DONE
+Admin can access everything - DONE
+Client Information Entry, Car Entry, Client Contract Entry, Trip Entry, Purchase Spare Part, Purchase Fuel - DONE
+
+Add Domain - Company 1 or Company 2 (Own company) - DONE
+Domain Entry
+
+Sales report = sort within dates, and domain, will download csv of tripEntry
+
+Purchase Report = Select Type of Report: - DONE
+
+1. Spare Part
+2. Tyres
+3. Fuel
+4. Insurance
+
+Select Date Range, Select Domain - DONE
+
+Download CSV - DONE
+
+
+Maintenance Add: - DONE
+Input String was not in correct format issue
+Make Attachment neccessary - DONE
+
+
+Entries User:- DONE
+System and Name are showing same things 
+
+
+Purchase Fuel Entry 
+Not adding a record, only refreshing - NOT FOUND
+
+Purchase Spare Part - DONE, Purchase Tyre - DONE, Purchase Fuel - DONE, Purchase Insurance - DONE
+Make Attachment Necessary
+
+Make VAT 5% auto fill of whatever the Amount field is - NOT DONE
+Gross = Amount + Vat

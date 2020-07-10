@@ -1,0 +1,2 @@
+Id,CompanyName,InvoiceNumber,Vat,Amount,Gross,GallonsPurchased,DateofPurchase,CreationDate
+1,Company B,INV001,90,900,990,101,07/29/2019 12:00:00 AM,07/29/2019 9:51:45 PM

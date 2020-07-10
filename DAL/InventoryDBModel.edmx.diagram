@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d2bc31ccb2124e9bb408d9a8dc968d52" Name="Diagram1">
+        <EntityTypeShape EntityType="InventoryDBModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Attachment" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_AttachmentCategory" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Car" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_CarType" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_ClientContract" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_ClientInformation" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Driver" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Fuel" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_InsuranceType" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Logger" Width="1.5" PointX="4.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Maintenance" Width="1.5" PointX="8.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_MaintenanceType" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_ModeOfPayment" Width="1.5" PointX="10.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Purchase_Fuel" Width="1.5" PointX="6.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Purchase_Insurance" Width="1.5" PointX="10.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Purchase_SparePart" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Purchase_Tyre" Width="1.5" PointX="0.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Template" Width="1.5" PointX="2.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Trip" Width="1.5" PointX="12.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_User" Width="1.5" PointX="12.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_UserLogin" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_UserRoles" Width="1.5" PointX="14.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_FuelTotal" Width="1.5" PointX="9.375" PointY="14.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_PettyCash_Add" Width="1.5" PointX="5.375" PointY="15.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_PettyCash_Total" Width="1.5" PointX="15.375" PointY="8.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_PettyCash_Withdrawl" Width="1.5" PointX="15.375" PointY="12.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_TyreTotal" Width="1.5" PointX="15.375" PointY="16.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_DomainCompany" Width="1.5" PointX="17.375" PointY="0.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_TripOutsource" Width="1.5" PointX="17.375" PointY="4.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_CreditStatus" Width="1.5" PointX="17.375" PointY="10.75" />
+        <EntityTypeShape EntityType="InventoryDBModel.Tbl_Vendor" Width="1.5" PointX="11.375" PointY="17.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

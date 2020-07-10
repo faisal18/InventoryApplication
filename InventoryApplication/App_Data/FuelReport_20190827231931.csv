@@ -1,0 +1,2 @@
+Id,Description,FromDestination,ToDestination,TotalDistance,TollCharges,WaitingCharges,TotalCharges,DriverCommission,DateofEntry,DriverName,ClientName,CarRegistration,CreatedBy,CreatedDate,UpdatedBy,UpdateDate,timestamp
+1,Desc A,From A,To A,100,11,11,11,11,08/27/2019 12:00:00 AM,Driver A,Client A,Client A,1,08/27/2019 11:14:11 PM,,,System.Byte[]
